@@ -1,1 +1,1 @@
-print "I am awesome atz Everything!!"
+print "KITTENS!!"
