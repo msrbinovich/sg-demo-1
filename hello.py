@@ -1,1 +1,1 @@
-print "Hello Git!"
+print "I am awesome atz Git!"
